@@ -1195,7 +1195,7 @@ px
     .class8{
         top: 1187px;
     left: -7px;
-    width: 630px;
+    width: 100%;
 }
     
 
@@ -1207,7 +1207,7 @@ px
     .class9{
         top: 1375px;
         left: -8px;
-        width: 635px;
+        width: 100%;
 
     }
 
@@ -1312,7 +1312,7 @@ px
     }
 
     .class8{
-        width: 411px;
+        width: 100%;
     }
 
     .gettingfusely{
@@ -1326,7 +1326,7 @@ px
     }
 
     .class9{
-        width:413px;
+        width:100%;
     }
 
     .footercolumn{
